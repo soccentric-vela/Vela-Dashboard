@@ -4,6 +4,8 @@
 - [docs/AUDIT.md](docs/AUDIT.md) — independent verification audit of this repo.
 - [.claude/skills/dashboard-architecture/SKILL.md](.claude/skills/dashboard-architecture/SKILL.md) — architecture, frontend/backend communication, and UI conventions for coding agents.
 
+## Overview
+
 ## Project Summary
 
 Vela-Dashboard is the operator-facing web application in `webui/`. Its
